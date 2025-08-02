@@ -1,0 +1,14 @@
+
+    SOFTWARE ENGINEER
+    
+    SKILLS:
+    - Python, JavaScript, React, Node.js
+    - SQL, MongoDB, AWS
+    - Machine Learning, TensorFlow
+    - Docker, Kubernetes, Git
+    
+    EXPERIENCE:
+    - Developed web applications using React and Node.js
+    - Implemented machine learning models with Python and TensorFlow
+    - Deployed applications using Docker and AWS
+    
